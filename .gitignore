@@ -1,0 +1,3 @@
+#my first git ignore
+logs
+*.exe
