@@ -1,2 +1,2 @@
 // This is a comment that i'm adding
-void func()
+int func(){}
