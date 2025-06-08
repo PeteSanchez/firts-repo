@@ -1,3 +1,3 @@
 # include "Warrior.h"
 void test();
-int main(){}
+int MainFunction(){}
